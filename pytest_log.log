@@ -1,0 +1,25 @@
+2022-09-13 21:09:48,265 : INFO : test_e2e : All items list
+2022-09-13 21:09:48,525 : INFO : test_e2e : Delvery location is India
+2022-09-13 21:09:53,741 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-13 21:09:55,750 : INFO : test_loginPage : Name is Rahul
+2022-09-13 21:09:55,821 : INFO : test_loginPage : Email isShetty
+2022-09-13 21:09:55,878 : INFO : test_loginPage : password is12345
+2022-09-13 21:09:55,934 : INFO : test_loginPage : Gendor is Mail
+2022-09-13 21:09:56,015 : INFO : test_loginPage : DateOfBirth is14-06-1999
+2022-09-13 21:09:56,170 : INFO : test_loginPage : ×
+Success! The Form has been submitted successfully!.
+2022-09-13 21:09:56,319 : INFO : test_loginPage : Name is skp
+2022-09-13 21:09:56,319 : INFO : test_loginPage : Name is skp
+2022-09-13 21:09:56,381 : INFO : test_loginPage : Email iskulay@gmal.com
+2022-09-13 21:09:56,381 : INFO : test_loginPage : Email iskulay@gmal.com
+2022-09-13 21:09:56,437 : INFO : test_loginPage : password is54321
+2022-09-13 21:09:56,437 : INFO : test_loginPage : password is54321
+2022-09-13 21:09:56,482 : INFO : test_loginPage : Gendor is Female
+2022-09-13 21:09:56,482 : INFO : test_loginPage : Gendor is Female
+2022-09-13 21:09:56,561 : INFO : test_loginPage : DateOfBirth is21-06-1999
+2022-09-13 21:09:56,561 : INFO : test_loginPage : DateOfBirth is21-06-1999
+2022-09-13 21:09:56,681 : INFO : test_loginPage : ×
+Success! The Form has been submitted successfully!.
+2022-09-13 21:09:56,681 : INFO : test_loginPage : ×
+Success! The Form has been submitted successfully!.
